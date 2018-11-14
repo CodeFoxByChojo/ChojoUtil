@@ -1,0 +1,6 @@
+D:\Github\ChojoUtil\ChojoUtil\obj\Debug\ChojoUtil.csprojAssemblyReference.cache
+D:\Github\ChojoUtil\ChojoUtil\obj\Debug\ChojoUtil.csproj.CoreCompileInputs.cache
+D:\Github\ChojoUtil\ChojoUtil\bin\Debug\ChojoUtils.dll
+D:\Github\ChojoUtil\ChojoUtil\bin\Debug\ChojoUtils.pdb
+D:\Github\ChojoUtil\ChojoUtil\obj\Debug\ChojoUtils.dll
+D:\Github\ChojoUtil\ChojoUtil\obj\Debug\ChojoUtils.pdb
